@@ -1,2 +1,9 @@
 # Sadiyah Faruk, sf2ne
-print("Hello!")
+
+
+def greeting(msg):
+    print(msg)
+
+
+if __name__ == '__main__':
+    greeting("Hello!")
